@@ -29,7 +29,7 @@ Create a txt file with the response of `Favoriters?` endpoint from twitter.
 Check `repo.go` to get familiar with the response struct.
 
 ```
-go main.go
+go run main.go
 ```
 
 Type the path and name of your txt file.
